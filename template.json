@@ -21,13 +21,19 @@
         {
           "id": "wedding_001",
           "name": "Bride Portrait",
-          "templateUrl": "https://example.com/templates/wedding/bride_portrait.png"
+          "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/wedding_2.jpeg"
         },
         {
           "id": "wedding_002",
           "name": "Groom Portrait",
-          "templateUrl": "https://example.com/templates/wedding/groom_portrait.png"
-        }
+          "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/wedding_1.jpeg"
+        },
+        
+        {
+          "id": "wedding_003",
+          "name": "Groom Portrait",
+          "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/wedding_3.jpeg"
+        },
       ]
     },
     {
