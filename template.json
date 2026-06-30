@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "category": "Anime",
+      "templates": [
+        {
+          "id": "anime_001",
+          "name": "Business Suit",
+          "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/anime_1.jpeg"
+        },
+        {
+          "id": "anime_002",
+          "name": "Office Portrait",
+          "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/anime_2.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "Wedding",
+      "templates": [
+        {
+          "id": "wedding_001",
+          "name": "Bride Portrait",
+          "templateUrl": "https://example.com/templates/wedding/bride_portrait.png"
+        },
+        {
+          "id": "wedding_002",
+          "name": "Groom Portrait",
+          "templateUrl": "https://example.com/templates/wedding/groom_portrait.png"
+        }
+      ]
+    },
+    {
+      "category": "Traditional",
+      "templates": [
+        {
+          "id": "traditional_001",
+          "name": "Sherwani",
+          "templateUrl": "https://example.com/templates/traditional/sherwani.png"
+        },
+        {
+          "id": "traditional_002",
+          "name": "Kurta",
+          "templateUrl": "https://example.com/templates/traditional/kurta.png"
+        }
+      ]
+    },
+    {
+      "category": "Fantasy",
+      "templates": [
+        {
+          "id": "fantasy_001",
+          "name": "King",
+          "templateUrl": "https://example.com/templates/fantasy/king.png"
+        },
+        {
+          "id": "fantasy_002",
+          "name": "Warrior",
+          "templateUrl": "https://example.com/templates/fantasy/warrior.png"
+        }
+      ]
+    },
+    {
+      "category": "Superhero",
+      "templates": [
+        {
+          "id": "superhero_001",
+          "name": "Masked Hero",
+          "templateUrl": "https://example.com/templates/superhero/masked_hero.png"
+        },
+        {
+          "id": "superhero_002",
+          "name": "Flying Hero",
+          "templateUrl": "https://example.com/templates/superhero/flying_hero.png"
+        }
+      ]
+    },
+    {
+      "category": "Casual",
+      "templates": [
+        {
+          "id": "casual_001",
+          "name": "Hoodie",
+          "templateUrl": "https://example.com/templates/casual/hoodie.png"
+        },
+        {
+          "id": "casual_002",
+          "name": "Street Style",
+          "templateUrl": "https://example.com/templates/casual/street_style.png"
+        }
+      ]
+    }
+  ]
+}
