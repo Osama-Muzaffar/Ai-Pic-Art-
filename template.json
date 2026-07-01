@@ -3,97 +3,67 @@
     {
       "category": "Anime",
       "templates": [
-        {
-          "id": "anime_001",
-          "name": "Business Suit",
-          "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/anime_1.jpeg"
-        },
-        {
-          "id": "anime_002",
-          "name": "Office Portrait",
-          "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/anime_2.jpeg"
-        }
+        { "id": "anime_001", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Anime/anime_1.jpeg" },
+        { "id": "anime_002", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Anime/anime_2.jpeg" },
+        { "id": "anime_003", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Anime/anime_3.jpeg" },
+        { "id": "anime_004", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Anime/anime_4.jpeg" },
+        { "id": "anime_005", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Anime/anime_5.jpeg" },
+        { "id": "anime_006", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Anime/anime_6.jpeg" }
       ]
     },
     {
       "category": "Wedding",
       "templates": [
-        {
-          "id": "wedding_001",
-          "name": "Bride Portrait",
-          "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/wedding_2.jpeg"
-        },
-        {
-          "id": "wedding_002",
-          "name": "Groom Portrait",
-          "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/wedding_1.jpeg"
-        },
-        
-        {
-          "id": "wedding_003",
-          "name": "Groom Portrait",
-          "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/wedding_3.jpeg"
-        },
+        { "id": "wedding_001", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Wedding/wedding_1.jpeg" },
+        { "id": "wedding_002", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Wedding/wedding_2.jpeg" },
+        { "id": "wedding_003", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Wedding/wedding_3.jpeg" },
+        { "id": "wedding_004", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Wedding/wedding_4.jpeg" },
+        { "id": "wedding_005", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Wedding/wedding_5.jpeg" },
+        { "id": "wedding_006", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Wedding/wedding_6.jpeg" }
       ]
     },
     {
       "category": "Traditional",
       "templates": [
-        {
-          "id": "traditional_001",
-          "name": "Sherwani",
-          "templateUrl": "https://example.com/templates/traditional/sherwani.png"
-        },
-        {
-          "id": "traditional_002",
-          "name": "Kurta",
-          "templateUrl": "https://example.com/templates/traditional/kurta.png"
-        }
+        { "id": "traditional_001", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Traditional/traditional_1.jpeg" },
+        { "id": "traditional_002", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Traditional/traditional_2.jpeg" },
+        { "id": "traditional_003", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Traditional/traditional_3.jpeg" },
+        { "id": "traditional_004", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Traditional/traditional_4.jpeg" },
+        { "id": "traditional_005", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Traditional/traditional_5.jpeg" },
+        { "id": "traditional_006", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Traditional/traditional_6.jpeg" }
       ]
     },
     {
       "category": "Fantasy",
       "templates": [
-        {
-          "id": "fantasy_001",
-          "name": "King",
-          "templateUrl": "https://example.com/templates/fantasy/king.png"
-        },
-        {
-          "id": "fantasy_002",
-          "name": "Warrior",
-          "templateUrl": "https://example.com/templates/fantasy/warrior.png"
-        }
+        { "id": "fantasy_001", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Fantasy/fantasy_1.jpeg" },
+        { "id": "fantasy_002", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Fantasy/fantasy_2.jpeg" },
+        { "id": "fantasy_003", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Fantasy/fantasy_3.jpeg" },
+        { "id": "fantasy_004", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Fantasy/fantasy_4.jpeg" },
+        { "id": "fantasy_005", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Fantasy/fantasy_5.jpeg" },
+        { "id": "fantasy_006", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Fantasy/fantasy_6.jpeg" }
       ]
     },
     {
-      "category": "Superhero",
+      "category": "SuperHero",
       "templates": [
-        {
-          "id": "superhero_001",
-          "name": "Masked Hero",
-          "templateUrl": "https://example.com/templates/superhero/masked_hero.png"
-        },
-        {
-          "id": "superhero_002",
-          "name": "Flying Hero",
-          "templateUrl": "https://example.com/templates/superhero/flying_hero.png"
-        }
+        { "id": "superhero_001", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/SuperHero/superhero_1.jpeg" },
+        { "id": "superhero_002", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/SuperHero/superhero_2.jpeg" },
+        { "id": "superhero_003", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/SuperHero/superhero_3.jpeg" },
+        { "id": "superhero_004", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/SuperHero/superhero_4.jpeg" },
+        { "id": "superhero_005", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/SuperHero/superhero_5.jpeg" },
+        { "id": "superhero_006", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/SuperHero/superhero_6.jpeg" }
       ]
     },
     {
       "category": "Casual",
       "templates": [
-        {
-          "id": "casual_001",
-          "name": "Hoodie",
-          "templateUrl": "https://example.com/templates/casual/hoodie.png"
-        },
-        {
-          "id": "casual_002",
-          "name": "Street Style",
-          "templateUrl": "https://example.com/templates/casual/street_style.png"
-        }
+        { "id": "casual_001", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Casual/casual_1.jpeg" },
+        { "id": "casual_002", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Casual/casual_2.jpeg" },
+        { "id": "casual_003", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Casual/casual_3.jpeg" },
+        { "id": "casual_004", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Casual/casual_4.jpeg" },
+        { "id": "casual_005", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Casual/casual_5.jpeg" },
+        { "id": "casual_006", "templateUrl": "https://raw.githubusercontent.com/Osama-Muzaffar/Ai-Pic-Art-/main/Casual/casual_6.jpeg" }
       ]
     }
   ]
