@@ -1,5 +1,20 @@
 {
   "categories": [
+      {
+      "category": "Haloween",
+      "templates": [
+        { "id": "halloween_001", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Halloween/halloween_1.jpg" },
+        { "id": "halloween_002", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Halloween/haloween_2.jpg" },
+        { "id": "halloween_003", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Halloween/haloween_3.jpg" },
+        { "id": "halloween_004", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Halloween/haloween_4.jpg" },
+        { "id": "halloween_005", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Halloween/haloween_5.jpg" },
+        { "id": "halloween_006", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Halloween/haloween_6.jpg" },
+        { "id": "halloween_006", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Halloween/haloween_7.jpg" },
+        { "id": "halloween_006", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Halloween/haloween_8.jpg" },
+        { "id": "halloween_006", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Halloween/haloween_9.jpg" },
+        { "id": "halloween_006", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Halloween/haloween_10.jpg" }
+      ]
+    },
     {
       "category": "Anime",
       "templates": [
