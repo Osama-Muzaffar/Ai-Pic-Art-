@@ -15,6 +15,21 @@
         { "id": "halloween_010", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Halloween/haloween_10.png" }
       ]
     },
+        {
+      "category": "Retro 80s",
+      "templates": [
+        { "id": "retro80s_001", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Retro80s/retro80s_1.png" },
+        { "id": "retro80s_002", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Retro80s/retro80s_2.png" },
+        { "id": "retro80s_003", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Retro80s/retro80s_3.png" },
+        { "id": "retro80s_004", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Retro80s/retro80s_4.png" },
+        { "id": "retro80s_005", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Retro80s/retro80s_5.png" },
+        { "id": "retro80s_006", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Retro80s/retro80s_6.png" },
+        { "id": "retro80s_007", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Retro80s/retro80s_7.png" },
+        { "id": "retro80s_008", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Retro80s/retro80s_8.png" },
+        { "id": "retro80s_009", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Retro80s/retro80s_9.png" },
+        { "id": "retro80s_010", "templateUrl": "https://github.com/Osama-Muzaffar/Ai-Pic-Art-/blob/main/Retro80s/retro80s_10.png" }
+      ]
+    },
     {
       "category": "Anime",
       "templates": [
